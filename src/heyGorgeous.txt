@@ -11,3 +11,13 @@ Keep going!
 Your life is very bright and  full of meaning.
 
 Thinks are good and they will get better.
+<<<<<<< HEAD
+
+yes
+
+yes
+yes
+
+yasss
+=======
+>>>>>>> parent of c1c0753 (yes)
