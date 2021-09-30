@@ -19,5 +19,4 @@ yes
 yes
 
 yasss
-=======
->>>>>>> parent of c1c0753 (yes)
+
